@@ -1,14 +1,25 @@
 # HOW TO RUN THE PROJECT
 
 ## First command console and install and run
+
+```sh
 npm install
+```
+
+```sh
 npm run start
+```
 
 ## Second command console for a test API server
+
+```sh
 npm run json:server
+```
 
 ## When deploying
+```sh
 npm run build
+```
 
 This will create a new "build" folder that you can use to deploy your app
 
